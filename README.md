@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akash Sahu
 
-### Accounting × Data × Development
+### Accounting + Data + Development
 
 I'm an accounting professional with 6+ years of experience, now combining
 **finance and accounting knowledge with data analytics and software development**
